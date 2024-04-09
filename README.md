@@ -10,3 +10,4 @@ y les notifica sobre cualquier cambio de estado, permitiendo así la comunicaci�
 El patrón Observer es comúnmente utilizado en aplicaciones C# y en muchas otras áreas del desarrollo de software para implementar un mecanismo de suscripción a eventos y notificaciones.
 Un ejemplo de vida real del patrón Observer en C# podría ser un sistema de notificaciones de correo electrónico.
 
+A continuación desarrollamos un pequeño software para la notificación de emails.
